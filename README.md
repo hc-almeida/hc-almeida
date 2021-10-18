@@ -35,6 +35,7 @@
 </details>
 
 <details>
+  <br>
   <summary> ⚡ Curiosidades</summary>
   <br>
   <img align="left" alt="PSN" src="https://img.shields.io/badge/Psn-003791?style=for-the-badge&logo=psn&logoColor=white" /> rCaroline <br>
