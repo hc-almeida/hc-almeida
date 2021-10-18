@@ -22,6 +22,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <details>
+   <br>
   <summary>🔥 Top linguagens</summary>
   <br>
   <img align="left" alt="Hellen Caroline's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hc-almeida&theme=nord" /> <br>
@@ -33,7 +34,7 @@
   <br>
   <br>
 </details>
-
+  <br>
 <details>
   <br>
   <summary> ⚡ Curiosidades</summary>
