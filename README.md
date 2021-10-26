@@ -4,7 +4,7 @@
 
 ### Sobre mim 🚀
 
-- 💻  &nbsp; Sou desenvolvedora iOS
+- 💻  &nbsp; Desenvolvedora iOS
 - 🔭  &nbsp; Eterna estudante! Gosto de buscar aprendizado constantemente
 - 🌱  &nbsp; Estudando arquiteturas, view code, animações e testes no geral
 - 💬  &nbsp; Sinta-se à vontade para falar comigo se precisar de alguma ajuda ou conversar sobre tópicos de desenvolvimento de software
@@ -35,13 +35,6 @@
   <br>
 </details>
   <br>
-<details>
-  <br>
-  <summary> ⚡ Curiosidades</summary>
-  <br>
-  <img align="left" alt="PSN" src="https://img.shields.io/badge/Psn-003791?style=for-the-badge&logo=psn&logoColor=white" /> rCaroline <br>
-  <br>
-</details>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
