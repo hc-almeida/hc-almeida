@@ -5,11 +5,11 @@
 ### Sobre mim 🚀
 
 - 💻  &nbsp; Desenvolvedora iOS
-- 🔭  &nbsp; Eterna estudante! Gosto de buscar aprendizado constantemente
-- 🌱  &nbsp; Estudando arquiteturas, view code, animações e testes no geral
+- 🔭  &nbsp; Gosto de buscar aprendizado constantemente
+- 🌱  &nbsp; Estudando arquiteturas, view code e testes no geral
 - 💬  &nbsp; Sinta-se à vontade para falar comigo se precisar de alguma ajuda ou conversar sobre tópicos de desenvolvimento de software
 - 😄  &nbsp; Pronouns: ela/dela
-- ⚡   &nbsp; Fun fact: Amo games! Atualmente viciada em warzone e fifa
+- ⚡   &nbsp; Fun fact: Viciada em alguns joguinhos
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
